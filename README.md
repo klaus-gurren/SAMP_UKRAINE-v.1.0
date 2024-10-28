@@ -1,14 +1,3 @@
-<p align="center">
-  <a href="https://t.me/GrenX_Studio" target="__blank">
-    <img src="https://i.imgur.com/qbW4p8Y.png" width="40" height="40" title="Telegram" alt="Telegram">
-  </a>
-  <a href="https://discordapp.com/users/829645751248355358/" target="__blank">
-    <img src="https://i.imgur.com/TFvPWEX.png" width="40" height="40" title="Discord" alt="Discord">
-  </a>
-</p>
-
-<br/>
-
 # SAMP UKRAINE
 
 ![msg6385958517-43711](https://github.com/klaus-gurren/SAMP_UKRAINE-v.1.0/blob/main/source/IMG_20241028_210017_114.jpg)
@@ -45,3 +34,14 @@
 
 > Автор джерела: GrenX Studio.
 > Розробник: Klaus_Gurren
+
+<p align="center">
+  <a href="https://t.me/GrenX_Studio" target="__blank">
+    <img src="https://i.imgur.com/qbW4p8Y.png" width="40" height="40" title="Telegram" alt="Telegram">
+  </a>
+  <a href="https://discordapp.com/users/829645751248355358/" target="__blank">
+    <img src="https://i.imgur.com/TFvPWEX.png" width="40" height="40" title="Discord" alt="Discord">
+  </a>
+</p>
+
+<br/>
