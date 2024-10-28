@@ -33,7 +33,7 @@
 
 - Виправлено кодування, тепер із модом можна працювати із програми pawno, без іерогліфів.
 
-# photo from the game
+# photo game
 https://imgur.com/gallery/Nt0YUrg
 
 > Автор джерела: GrenX Studio.
