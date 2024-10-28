@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://t.me/GrenX_Studio" target="__blank">
-    <img src="https://i.imgur.com/qbW4p8Y.png" width="30" height="30" title="Telegram" alt="Telegram">
+    <img src="https://i.imgur.com/qbW4p8Y.png" width="40" height="40" title="Telegram" alt="Telegram">
   </a>
   <a href="https://discordapp.com/users/829645751248355358/" target="__blank">
-    <img src="https://i.imgur.com/TFvPWEX.png" width="30" height="30" title="Discord" alt="Discord">
+    <img src="https://i.imgur.com/TFvPWEX.png" width="40" height="40" title="Discord" alt="Discord">
   </a>
 </p>
 
